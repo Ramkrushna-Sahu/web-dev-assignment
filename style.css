@@ -21,8 +21,8 @@
 
 .imgDiv {
     position: relative;
-    width: calc(50% - 60px); /* Adjust according to your design */
-    margin: 30px 0; /* Adjust according to your design */
+    width: calc(50% - 60px);
+    margin: 30px 0;
     overflow: hidden;
     object-fit: cover;
 }
@@ -49,9 +49,9 @@
 
 .mainText {
     font-weight: 600;
-    font-size: 2.5vw; /* Adjust according to your design */
+    font-size: 2.5vw; 
     margin: 20px;
-    padding: 2px 3.5vw; /* Adjust according to your design */
+    padding: 2px 3.5vw;
     text-align: center;
     color: white;
 }
@@ -72,7 +72,7 @@
     backdrop-filter: blur(100%);
     opacity: 0;
     margin: auto 0%;
-    padding: 0px 5vw; /* Adjust according to your design */
+    padding: 0px 5vw; 
     visibility: hidden;
     transition: opacity 0.5s, visibility 0.5s ease-in, transform 0.5s ease-in-out;
     transform: translate(-100%, 100%);
@@ -86,7 +86,7 @@
 
 .title {
     color: white;
-    font-size: 2.5vw; /* Adjust according to your design */
+    font-size: 2.5vw; 
     text-align: center;
     margin-bottom: 20px;
     font-weight: 800;
@@ -98,7 +98,7 @@
 
 .description {
     color: white;
-    font-size: 1.5vw; /* Adjust according to your design */
+    font-size: 1.5vw;
     text-align: center;
     font-weight: 600;
     transition: opacity 0.8s ease-in-out, transform 0.8s ease-in-out;
